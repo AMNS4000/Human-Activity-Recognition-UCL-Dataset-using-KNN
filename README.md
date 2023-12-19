@@ -1,7 +1,11 @@
 1.)Human Activity Recognition Dataset by UCL is utilized.
+
 2.)Utilized KNN for classifying 19 different activities on the basis of sensor data.
+
 3.)Achieved an accuracy of 65% and accuracy of 97% using CNN.
+
 4.) Data interpolation and features like mean, standard deviation, skew and kurtosis utilized.
+
 Some Observations :-)
 
 1.)An interesting insight was to first denoise the data and then start with feature extraction
